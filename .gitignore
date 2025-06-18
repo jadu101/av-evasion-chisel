@@ -32,3 +32,4 @@ _testmain.go
 *.exe
 *.test
 *.prof
+tinygo_0.38.0_amd64.deb
